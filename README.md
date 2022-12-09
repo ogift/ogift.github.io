@@ -1,2 +1,2 @@
-# ogift.github.io
-ogift is a global project of SO
+# ogift
+ogift is a postal system of SO life.
