@@ -6,19 +6,20 @@ body
 }
 p 
 {
-	margin: 10px;
+	font-size: 12px;
+	margin: 1px;
 }
 ol
 {
-        margin: 25px;
+        margin: 1px;
 }
 ul
 {
-	margin: 10px;
+	margin: 1px;
 }
 li
 {
-	margin: 3px;
+	margin: 1px;
 }
 img
 {	
