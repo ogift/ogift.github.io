@@ -1,0 +1,30 @@
+body 
+{
+	font-family: 'Bitter', serif;
+	font-size: 18px;
+	margin: 1%;
+}
+p 
+{
+	margin: 1px;
+}
+ul
+{
+	margin: 1px;
+}
+li
+{
+	margin: 1px;
+}
+img
+{	
+	max-width: 90%;
+}
+.fix
+{
+    position:fixed;
+    bottom:1%;
+    right:1%;
+    width:30%; 
+}
+
